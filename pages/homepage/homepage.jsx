@@ -7,7 +7,7 @@ export default function HomePage() {
         <div className="homepage">
             <nav className="mininav" aria-label="Model categories navigation">
                 <ul>
-                    <li><Link to="/models" className="text-black hover:text-pink-400">Al</Link></li>
+                    <li><Link to="/models" className="text-black hover:text-pink-400">Anpm l</Link></li>
                     <li>Male</li>
                     <li>Female</li>
                     <li>Curvy</li>
